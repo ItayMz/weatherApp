@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "61e5d4d1c2aebc0b97d33e01",
+      "name": "New York",
+      "country": "US",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "forecasts": [
+        "61e5d509c2aebc0b97d33e02",
+        "61e5d509c2aebc0b97d33e03",
+        "61e5d509c2aebc0b97d33e04"
+      ]
+    },
+    {
+      "_id": "61e5d4d1c2aebc0b97d33e05",
+      "name": "London",
+      "country": "UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "forecasts": [
+        "61e5d509c2aebc0b97d33e06",
+        "61e5d509c2aebc0b97d33e07",
+        "61e5d509c2aebc0b97d33e08"
+      ]
+    }
+  ]
